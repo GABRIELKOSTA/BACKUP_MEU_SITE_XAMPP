@@ -4,8 +4,8 @@ Aqui está um backup para reviver meu site em outras máquinas
 Beleza, vamos lá...
 Primeiro de tudo, baixe o Xampps na sua máquina
 
-Depois de baixado, entre na pasta do Xampps, e entre em **mysql**
-Coloque a pasta **site_users** dentro
+Depois de baixado, entre na pasta do Xampps, e entre em **mysql**, cole a pasta **data** lá!
+entre em **data** e coloque a pasta **site_users** dentro
 
 Vá em **htdocs** e cole a pasta **nazox**(Que é o site) dentro
 
